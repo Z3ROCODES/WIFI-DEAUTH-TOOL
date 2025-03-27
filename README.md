@@ -85,18 +85,4 @@ This project is released under the **MIT License**. See `LICENSE` for more detai
 
 ---
 
-## 👨‍💻 Contributing
-
-Feel free to fork and contribute! For bugs, feature requests, or improvements, open an issue or submit a pull request. Please ensure all contributions align with the project's goal: **educational use only.**
-
----
-
-## 📝 Acknowledgments
-
-- **Scapy** for providing the packet crafting framework.
-- **Aircrack-ng** for making WiFi testing tools available.
-- **Python community** for making Python a great language for security research!
-
----
-
 **Created by [Z3RO](https://github.com/Z3ROCODES)**
